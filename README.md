@@ -1,4 +1,4 @@
-# Métodos Formais
+# Métodos Formais para Computação
 
 -  Professor: Julio Machado
 -  Código: 4646M-04
